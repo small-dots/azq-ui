@@ -1,7 +1,7 @@
 {
   "name": "azqui",
   "version": "0.0.2",
-  "description": "> TODO: description",
+  "description": "test description",
   "author": "『安忠琪』 <anzhongqi@marknum.com>",
   "homepage": "",
   "license": "ISC",
@@ -22,5 +22,5 @@
   "dependencies": {
     "less": "^4.1.3"
   },
-  "gitHead": "2f9985c7634e114c7da8edd563c33591151d6919"
+  "gitHead": "d92348bb12bb9c0adbf974a9823142b6dd5c40b3"
 }
