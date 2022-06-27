@@ -1,7 +1,7 @@
 {
   "name": "@mc-common/azqui",
   "version": "0.0.5",
-  "description": "test description",
+  "description": "test descridsption",
   "author": "『安忠琪』 <anzhongqi@marknum.com>",
   "homepage": "",
   "license": "MIT",
@@ -22,5 +22,5 @@
   "dependencies": {
     "less": "^4.1.3"
   },
-  "gitHead": "3b4d2f15615379799eb34ff93176b61342e3abff"
+  "gitHead": "cc5f99700427ec1ab7d986016b24e38ec4c0e3d6"
 }
