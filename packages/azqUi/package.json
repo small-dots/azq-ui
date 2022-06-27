@@ -1,5 +1,5 @@
 {
-  "name": "azqui",
+  "name": "@mc-common/azqui",
   "version": "0.0.4",
   "description": "test description",
   "author": "『安忠琪』 <anzhongqi@marknum.com>",
@@ -22,5 +22,5 @@
   "dependencies": {
     "less": "^4.1.3"
   },
-  "gitHead": "2f05ac0547fb7c5bb6db574a842265bb935a7375"
+  "gitHead": "3b4d2f15615379799eb34ff93176b61342e3abff"
 }
